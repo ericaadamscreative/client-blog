@@ -1,0 +1,124 @@
+header {
+    font-family: 'Rubik', sans-serif;
+    color: #BF849D;
+    font-size: 40px;
+    background-color: #402C34;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Inria Serif', serif;
+    text-shadow:rgb(0,0,0, .5);
+}
+
+h2 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.banner-image {
+    background: url(images/jez-timms-lIUIZJYHgUQ-unsplash.jpg) center no-repeat;
+    background-size: cover;
+    padding: 201px;
+}
+
+.salutation {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.salutation-p {
+    font-weight: 100;
+    margin-bottom: 70px;
+    padding: 0 150px;
+    text-align: left;
+    color: black;
+}
+body {
+    padding: 100px;
+    border-right: solid 1px #000;
+}
+.post {
+    margin-bottom: 70px;
+}
+span {
+    font-style: italic bold;
+}
+
+a {
+    font-family: 'Rubik', sans-serif;
+    color: #BF849D;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    background-color: #FFFFFF;
+    transition: all 1s ease;
+    color: #402C34;
+}
+
+.opening {
+    color: #402C34;
+    margin: 0;
+    text-align: center;
+    padding: 0 20px;
+}
+
+img {
+    /* margin-bottom: 30px; */
+}
+
+.mandress {
+    float: left;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    height: 600px;
+    overflow: hidden;
+}
+
+p {
+    font-family: 'Rubik', sans-serif;
+}
+
+h3 {
+    font-family: 'Inria Serif', serif;
+    color: #402C34;
+    font-size: 40px;
+    margin: 0;
+}
+
+h4 {
+    font-family: 'Inria Serif', serif;
+    padding-left: 1%;
+    margin: 0;
+}
+
+.maori {
+    float: right;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    height: 600px;
+    overflow: hidden;
+}
+
+.ghost-girl {
+    float: left;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    height: 600px;
+    overflow: hidden;
+}
+
+footer {
+    background-color: #402C34;
+    color: #BF849D;
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+    Padding: 100px;
+}
+
+.footer-buttons {
+    padding: 30px;
+}
